@@ -1,5 +1,5 @@
 ## Project Links
-- **Live Website (Hosted on Firebase):** [acoNews](https://netlixui-clone1.web.app/)
+- **Live Website (Hosted on Firebase):** [NetflixUI-Clone](https://netlixui-clone1.web.app/)
 - **GitHub Repository:** [GitHub Repo](https://github.com/Paku0718/neflixclone)
 
 ## Available Scripts
