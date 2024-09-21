@@ -68,6 +68,3 @@ This project is a responsive clone of Netflix's user interface, built using Reac
 
 This project is licensed under the MIT License.
 
----
-
-Feel free to modify the README according to your project setup. Happy coding!
