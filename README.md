@@ -2,6 +2,10 @@
 
 This project is a responsive clone of Netflix's user interface, built using React.js and Tailwind CSS. It includes user authentication and the ability for users to store their favorite movies and TV shows using Firebase.
 
+## Project Links
+- *Live Website (Hosted on Firebase):* [NetflixUI-Clone](https://netlixui-clone1.web.app/)
+- *GitHub Repository:* [GitHub Repo](https://github.com/Paku0718/neflixclone)
+
 ## Features
 
 - **User Authentication**: Users can sign up and log in using Firebase Authentication.
