@@ -1,6 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Links
+- **Live Website (Hosted on Firebase):** [acoNews](https://netlixui-clone1.web.app/)
+- **GitHub Repository:** [GitHub Repo](https://github.com/Paku0718/neflixclone)
 
 ## Available Scripts
 
